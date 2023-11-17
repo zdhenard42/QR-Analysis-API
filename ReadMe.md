@@ -4,4 +4,4 @@ If you would like to recreate the API yourself, simply fill in the `<KEY HERE>` 
   
 Feel free to create a pull request if you see possible improvements!  
   
-A dive into my development process has been posted on my blog [here](google.com)!
+A dive into my development process has been posted on my blog [here]((https://henard.xyz/p/building-a-qr-code-security-analysis-tool/)https://henard.xyz/p/building-a-qr-code-security-analysis-tool/)!
